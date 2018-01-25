@@ -1,0 +1,30 @@
+body {
+  background-color: white;
+  color: black;
+}
+
+.todo-list-input {
+  height: 60px;
+  width: 200px;
+}
+
+input[type=text] {
+  width: 100px;
+  -webkit-transition: width .35s ease-in-out;
+  transition: width .35s ease-in-out;
+}
+
+input[type=text]:focus {
+  width: 250px;
+  background-color: azure;
+}
+
+.todo-list {
+  color: #0e0000;
+}
+
+.add-button-to-list {
+  height: 40px;
+  width: 80px;
+}
+
