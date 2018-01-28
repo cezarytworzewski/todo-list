@@ -6,6 +6,8 @@ body {
 .todo-list-input {
   height: 60px;
   width: 200px;
+  border-radius: 4px;
+  font-size: 20px;
 }
 
 input[type=text] {
@@ -25,5 +27,6 @@ input[type=text]:focus {
 .add-button-to-list {
   height: 40px;
   width: 80px;
+  background-color: #4cae4c;
 }
 
