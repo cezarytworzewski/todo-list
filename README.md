@@ -16,8 +16,3 @@ przycisku `ENTER` lub po kliknięciu przycisku `Task add`.
 
 Po dynamicznym utworzeniu zadania (listy ul), automatycznie doda się przycisk 
 `[x]`, dzięki któremu możemy usunąć wybrane przez nas zadanie
-
-## License
-
-[The MIT License](http://piecioshka.mit-license.org) @ 2018
-
