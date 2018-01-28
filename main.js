@@ -31,36 +31,10 @@ class Manager {
     const $x = document.createElement('button');
     $x.style.backgroundColor = '#d43f3a';
     $x.style.marginLeft = '20px';
-    $x.textContent = 'Usuń';
+    $x.textContent = ' Usuń';
     $li.appendChild($x);
     $x.addEventListener('click', function () {
       $li.parentNode.removeChild($li);
     });
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
